@@ -24,7 +24,7 @@ HARUKA supports EVERY LLM compatible on Ollama. The default recommended model is
 
 To install a model:
 ```
-ollama run dolphin3
+ollama pull dolphin3
 ```
 
 ## Install libraries with pip
