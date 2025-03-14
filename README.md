@@ -1,5 +1,5 @@
 # HARUKA
-H.A.R.U.K.A. – Helpful Assistant for Real-time, User &amp; Knowledge Assistance. HARUKA is a simple to use LLM manager based on Ollama. Simply install the program, follow the 3 step instructions, and chat away! In the future HARUKA is also planned to be able to interact with custom python scripts and have a customization 3D VRM model.
+H.A.R.U.K.A. – Helpful Assistant for Real-time, User &amp; Knowledge Assistance. HARUKA is a simple to use LLM manager based on Ollama which also supports adding personality! Simply install the program, follow the 3 step instructions, and chat away! In the future HARUKA is also planned to be able to interact with custom python scripts and have a customization 3D VRM model.
 HARUKA is designed to be:
 
 - Simple to use, modify, deploy.
@@ -70,7 +70,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 ## Quickly set up in 3 easy steps!
 
-1. Download "main.py"
+1. Download "main.py", "personality.txt" in the same directory.
 2. Run "main.py"
 3. Follow instruction and enjoy!
 ## About .env File Modifications
