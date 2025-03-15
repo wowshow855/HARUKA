@@ -72,7 +72,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 ## Quickly set up in 3 easy steps!
 
-1. Download "main.py", "personality.txt" in the same directory.
+1. Download the repo.
 2. Run "main.py"
 3. Follow instruction and enjoy!
 ## About .env File Modifications
