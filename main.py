@@ -22,6 +22,7 @@ import speech_recognition as sr
 
 load_dotenv()
 
+#If your system uses a different command for clear terminal please change this.
 clear = lambda: os.system('cls')
             
 #env file setup
