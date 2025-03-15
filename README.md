@@ -33,7 +33,7 @@ In your system CLI (CMD, Powershell, MacOS Terminal, Linux Command line)
 
 Copy and paste this command to install libraries:
 ```
-pip install sounddevice, soundfile, kokoro, numpy, dotenv, speechrecognition
+pip install sounddevice, soundfile, kokoro, numpy, dotenv, speechrecognition, pyaudio
 ```
 
 ### Install Torch:
