@@ -52,6 +52,8 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 If you do not have an NVIDIA GPU:
 
 Scroll down and get command from https://pytorch.org/ select CPU and run it
+
+Example:
 ```
 pip install torch torchvision torchaudio
 ```
