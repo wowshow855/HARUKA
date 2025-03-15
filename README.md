@@ -18,7 +18,7 @@ HARUKA only requires 3 programs!
 - Ollama (https://ollama.com/)
 - Torch (Instructions below)
 
-## Installing an LLM for HARUKA
+### Installing an LLM for HARUKA
 
 HARUKA supports EVERY LLM compatible on Ollama. The default recommended model is "dolphin3". Find models on https://ollama.com/search to use other models on Hugging Face for example consult a Youtube tutorial.
 
@@ -27,7 +27,7 @@ To install a model:
 ollama pull dolphin3
 ```
 
-## Install libraries with pip
+### Install libraries with pip
 
 In your system CLI (CMD, Powershell, MacOS Terminal, Linux Command line)
 
@@ -36,7 +36,7 @@ Copy and paste this command to install libraries:
 pip install sounddevice, soundfile, kokoro, numpy, dotenv, speechrecognition
 ```
 
-## Install Torch:
+### Install Torch:
 
 If you have an NVIDIA GPU:
 
@@ -70,7 +70,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 ## Running the program
 
-## Quickly set up in 3 easy steps!
+### Quickly set up in 3 easy steps!
 
 1. Download the repo.
 2. Run "main.py"
